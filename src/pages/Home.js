@@ -43,8 +43,8 @@ export default function Home() {
       <Hero hero="defaultHero"></Hero>
 
       <Banner
-        title="Luxurious Rooms"
-        subtitle="deluxe rooms starting at ₦30,000"
+        title="Wheatbaker Rooms"
+        subtitle="Wheatbaker rooms starting at ₦30,000"
       >
         <Link to="/rooms" className="btn btn-primary">
           Our Rooms

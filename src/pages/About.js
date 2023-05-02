@@ -131,8 +131,7 @@ function About() {
                       <div className="text-dark">
                         <h3 className="font-weight-bolder ">Customer DRF</h3>
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit.
+                          Want to speak with the customer care representative? Be patient she'll talk to you in a minute time.
                         </p>
                       </div>
                     </div>
@@ -155,10 +154,8 @@ function About() {
                       <div className="text-dark">
                         <h3 className="font-weight-bolder ">Customer RTY</h3>
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit. <br />
-                          Praesent commodo cursus magna, vel scelerisque nisl
-                          consectetur
+                        Want to speak with the customer care representative? <br />
+                        Be patient she'll talk to you in a minute time. She's busy now.
                         </p>
                       </div>
                     </div>
@@ -181,8 +178,8 @@ function About() {
                       <div className="text-dark">
                         <h3 className="font-weight-bolder ">Customer RTY</h3>
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur Praesent
-                          commodo cursus magna, vel scelerisque nisl consectetur
+                        Want to speak with the customer care representative? Be patient she'll talk to you in a minute time.
+
                         </p>
                       </div>
                     </div>
@@ -224,7 +221,7 @@ function About() {
         <div className="col-md-4 col-12 mx-auto my-2">
           <div className="card border-0 shadow-lg p-4">
             <img
-              src="https://scontent.fabb1-2.fna.fbcdn.net/v/t1.6435-9/80569675_122935182520523_4099252267750785024_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeExlmvHj6cgJnXcrsI2NDtjbS0Ima7DFtJtLQiZrsMW0oce9fs8wMkSb6cYPk2wryagNinCkO3T-HAw8QeDihma&_nc_ohc=WsSi4lodK5AAX8104Nz&tn=CtKN2agmhBhkxrBE&_nc_ht=scontent.fabb1-2.fna&oh=00_AT8aDN21gkTDKtHFH4azm_AAP4VB0M57jwQsMzUEf7h52w&oe=62E52B88"
+              src={require("../images/CEO.jpeg")}
               className="card-img-top"
               alt="director"
             />
@@ -246,7 +243,8 @@ function About() {
         <div className="col-md-4 col-12 mx-auto my-2">
           <div className="card border-0 shadow-lg p-4">
             <img
-              src="https://scontent.fabb1-2.fna.fbcdn.net/v/t1.6435-9/81838076_123307359149972_6988111648305184768_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeEWQobCuIwJH5ID5OyUWD51CdALLyReRRMJ0AsvJF5FEyQ-hdyQbawRNI34lIH-jJJRQs5HxnjpRKKIPWYkaQkx&_nc_ohc=3xzLR7TZP4cAX_u1OdU&tn=CtKN2agmhBhkxrBE&_nc_ht=scontent.fabb1-2.fna&oh=00_AT9uJkIhPUxh-ObJnopLIXEDXizROUB-kSVH-zzF57D_YQ&oe=62E5EC0D"
+              src={require("../images/member2.jpeg")}
+              height="400"
               className="card-img-top"
               alt="director"
             />
@@ -268,7 +266,8 @@ function About() {
         <div className="col-md-4 col-12 mx-auto my-2">
           <div className="card border-0 shadow-lg p-4">
             <img
-              src="https://scontent.fabb1-1.fna.fbcdn.net/v/t1.6435-9/80992478_123307562483285_5998398664723136512_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeFVHv9MJGc4UXlstxMUozkeABx5kpCKyacAHHmSkIrJpyr2bTtrnFU00sr7PeaBh-usTyLy2Poq8A8Q4cd-MCMg&_nc_ohc=1hgoM7_p0zAAX8WB3qh&tn=CtKN2agmhBhkxrBE&_nc_ht=scontent.fabb1-1.fna&oh=00_AT_cBvOaxv6Q-PsKscnhflbw5dLTljahAUAmrd9WGAlyFQ&oe=62E4F747"
+              src={require("../images/member1.jpeg")}
+              height="400"
               className="card-img-top"
               alt="director"
             />
